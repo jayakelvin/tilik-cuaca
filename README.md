@@ -117,16 +117,6 @@ Each completed assessment should contain enough information to answer:
 6. What are the important limitations?
 7. How can the figures be regenerated?
 
-## TilikCuaca vs. Earth in Extremes
-
-TilikCuaca is designed for focused, reusable assessments.
-
-More comprehensive event investigations involving multiple scientific questions, datasets, processes, or extensive interpretation belong in the separate **Earth in Extremes** project.
-
-A useful rule:
-
-> If answering the original question repeatedly requires another dataset, another mechanism, and another figure, the investigation may have grown beyond TilikCuaca.
-
 ## License
 
 Code in this repository is released under the MIT License unless otherwise stated.
