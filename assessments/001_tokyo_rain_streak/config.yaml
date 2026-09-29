@@ -1,0 +1,15 @@
+assessment:
+  id: "001"
+  title: "Tokyo's 34 rainy days"
+
+station:
+  name: "Tokyo"
+  jma_station_id: "47662"
+
+event:
+  start: "2026-08-27"
+  end: "2026-09-29"
+
+analysis:
+  historical_start: 1886
+  historical_end: 2026
